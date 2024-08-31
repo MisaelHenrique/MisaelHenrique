@@ -1,8 +1,12 @@
-<div style="display: inline_block"> 
-<img align="center" height="200" width="350" src="https://github-readme-stats.vercel.app/api?username=MisaelHenrique&theme=codeSTACKr&show_icons=true&locale=en" alt="Misael Henrique" />
-<img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=MisaelHenrique&theme=codeSTACKr&" alt="Misael Henrique" />
+<!-- GITHUB STATS -->
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelhenrique&layout=compact&theme=vision-friendly-dark" alt="Top Langs Misael" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com">
+  <img align="center" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com?user=misaelhenrique&theme=highcontrast" alt="Misael Henrique" />
+</a>
 </div>
-
 
 <div style="display: inline_block"><br>
   <!-- Icon HTML -->
@@ -25,6 +29,8 @@
   <img align="center" alt="Misael-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
+##
+
 <div>
 <!-- Icon Linkedin link-->
   <a href="https://www.linkedin.com/in/misael-henrique-93399221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -36,15 +42,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/misaelhenrique/snk/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/misaelhenrique/snk/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/misaelhenrique/snk/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/vitorslima/snk/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
